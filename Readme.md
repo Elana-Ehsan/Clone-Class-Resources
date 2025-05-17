@@ -1,6 +1,7 @@
 # Website Static Content Crawler (Cookie Authenticated)
 
 ## 网站静态内容爬虫器
+我在下载资源时，由于很多http资源都要一个一个下载，wget又不能很好使用的时候，写了一个python程序，可以递归请求，有cookie验证的情况也可以通过
 
 # 🌐 Choose Language | 选择语言
 
